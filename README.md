@@ -80,6 +80,4 @@
 - `matplotlib` для визуализации.
 
 ## Установка
-1. Клонируйте репозиторий:
-   ```sh
-   git clone https://github.com/MichailNikitin/Neurotracker_telemetry.git
+https://colab.research.google.com/drive/1BpUjbU9TcGFhXkbOsvM1OPL0DgYxid34?usp=sharing
